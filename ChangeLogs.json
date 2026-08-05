@@ -1,12 +1,17 @@
 [
 	{
-    "version": "1.1.3",
+    "version": "1.1.4",
     "changes": [
-	  "Updated RLSDK to v2.71",
+	  "Updated RLSDK to v2.72",
       "Updated RLSDK to v2.70",
 	  "Updated RLSDK to v2.69",
       "Updated RLSDK to v2.68",
-	  "Updated RLSDK to v2.67",
+	  "Updated RLSDK to v2.67"
+    ]
+  },
+	{
+    "version": "1.1.3",
+    "changes": [
 	  "Updated RLSDK to v2.66",
 	  "Added Custom Car",
 	  "Added player flip reset indicator",
